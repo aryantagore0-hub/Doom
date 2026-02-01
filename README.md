@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title>Doom 3D Style - Fixed & Better</title>
@@ -13,6 +14,8 @@
   <canvas id="canvas"></canvas>
   <canvas id="minimap" width="200" height="200"></canvas>
   <div id="info">
+    Click to lock mouse & play<br>
+    WASD: Move/Strafe | Mouse: Look/Shoot
   </div>
 
 <script>
